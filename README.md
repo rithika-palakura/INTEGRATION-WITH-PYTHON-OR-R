@@ -12,3 +12,4 @@ These three visualizations were then combined into a comprehensive Tableau dashb
 The final dashboard was exported as a PDF for portability and shared as part of the deliverables. Accompanying the dashboard was a detailed write-up explaining the methodology, tools, and insights derived from the analysis. This project demonstrates my ability to integrate Python with Tableau to perform advanced analytics, create engaging visualizations, and deliver a cohesive and interactive report that effectively communicates meaningful insights.
 
 **OUTPUT OF THE TASK**
+[Task - 4.pdf](https://github.com/user-attachments/files/18457898/Task.-.4.pdf)
